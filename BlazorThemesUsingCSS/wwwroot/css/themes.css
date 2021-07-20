@@ -1,0 +1,19 @@
+﻿.default {
+    --primary-color: #F00;
+    --secondary-color: #0F0;
+    --background-default: #EFEFEF;
+    --background-paper: #FFF;
+    --text-primary: #333;
+    --text-secondary: #454545;
+    --text-error: #B33;
+}
+
+.dark {
+    --primary-color: #F00;
+    --secondary-colorr: #0F0;
+    --background-default: #333;
+    --background-default: #111;
+    --text-primary: #FFF;
+    --text-secondary: #EEE;
+    --text-error: #B33;
+}
